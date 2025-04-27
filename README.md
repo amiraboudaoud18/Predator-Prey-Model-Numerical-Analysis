@@ -12,7 +12,7 @@ A detailed report explaining the model, theorems, derivations, numerical methods
 👉 [Read the Full Report](./report/PROJNMC2_report.pdf)
 
 ## 🛠️ Practical Work
-MATLAB code implementations for solving and analyzing the models are available under the `Predator-Prey-Model-Numerical-Analysis_matlab_code/` directory:
+MATLAB code implementations for solving and analyzing the models are available under the ./matlab directory:
 - `PartB_question4.m`: Numerical solution of the classical model using Euler's explicit method.
 - `PartB_question6.m`: Phase-space plots with various initial conditions.
 - `PartB_question7p1.m` & `PartB_question7p2.m`: Effect of step size variation on accuracy.
