@@ -9,7 +9,7 @@ This project models the evolution of predators and prey within an ecosystem by a
 
 ## 📑 Report
 A detailed report explaining the model, theorems, derivations, numerical methods, results, and ecological interpretations is available here:  
-👉 [Read the Full Report](./report/PROJNMC2_report.pdf)
+👉 [Read the Full Report](./report/Predator-Prey-Model-Numerical-Analysis_report.pdf)
 
 ## 🛠️ Practical Work
 MATLAB code implementations for solving and analyzing the models are available under the '/matlab/' directory:
