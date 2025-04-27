@@ -18,7 +18,8 @@ MATLAB code implementations for solving and analyzing the models are available u
 - `PartB_question7p1.m` & `PartB_question7p2.m`: Effect of step size variation on accuracy.
 - `PartC_question3p2.m`: Impact of pesticide use on predator-prey dynamics.
 - `PartD_question3.m`: Resource limitation model (introducing carrying capacity).
-and other Complementary documents. 
+
+*NOTE:* there are other Complementary documents as well. 
 
 ## 📈 Main Highlights
 - **Classical Lotka-Volterra Equations**: Predator-prey cyclical dynamics without resource limits.
